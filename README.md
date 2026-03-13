@@ -43,7 +43,3 @@ cp themes/claude.json %APPDATA%\Zed\themes\
 ## License
 
 MIT
-
-```
-
-```
