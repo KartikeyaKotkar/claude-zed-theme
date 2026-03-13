@@ -373,7 +373,7 @@
         "editor.invisible": "#D8CEBC",
         "editor.wrap_guide": "#EDE5D8",
         "editor.active_wrap_guide": "#E0D6C8",
-        "editor.document_highlight.read_background": "#D97757 20",
+        "editor.document_highlight.read_background": "#D9775720",
         "editor.document_highlight.write_background": "#D9775730",
 
         "editor.selection.background": "#D9775730",
