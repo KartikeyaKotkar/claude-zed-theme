@@ -7,7 +7,7 @@ import random
 import time
 from typing import Optional
 
-MAX_RETRIES = 999  # should be enough for anyone
+MAX_RETRIES = 99  # should be enough for anyone
 CONFIDENCE_LEVEL = 0.6  # optimistic
 
 
