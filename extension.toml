@@ -1,0 +1,10 @@
+id = "claude-zed-theme"
+name = "Claude Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["kk"]
+description = "A warm Claude-inspired theme for Zed. Dark and light variants."
+repository = "https://github.com/KartikeyaKotkar/claude-zed-theme"
+
+[themes]
+themes = ["themes/claude.json"]
